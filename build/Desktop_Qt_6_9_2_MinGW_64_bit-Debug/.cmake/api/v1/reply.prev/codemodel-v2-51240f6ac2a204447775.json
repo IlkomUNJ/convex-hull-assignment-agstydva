@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-1da0463f4e934790d492.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "assignment-kompgraf",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "assignment-kompgraf::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-assignment-kompgraf-Debug-181110d318d41b3cf18c.json",
+					"name" : "assignment-kompgraf",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "assignment-kompgraf_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-assignment-kompgraf_autogen-Debug-b847fc7cb0b7a64451ec.json",
+					"name" : "assignment-kompgraf_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "assignment-kompgraf_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-assignment-kompgraf_autogen_timestamp_deps-Debug-9d8ee305d099f0e76d5e.json",
+					"name" : "assignment-kompgraf_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/dafan/Documents/assignment-kompgraf/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug",
+		"source" : "C:/Users/dafan/Documents/assignment-kompgraf"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
