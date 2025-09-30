@@ -1,0 +1,19 @@
+# ninja log v6
+6	704	7809514172577885	assignment-kompgraf_autogen/timestamp	3ce9b61119c42f8c
+6	704	7809514172577885	assignment-kompgraf_autogen/mocs_compilation.cpp	3ce9b61119c42f8c
+6	704	7809514172577885	C:/Users/dafan/Documents/assignment-kompgraf/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/assignment-kompgraf_autogen/timestamp	3ce9b61119c42f8c
+6	704	7809514172577885	C:/Users/dafan/Documents/assignment-kompgraf/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/assignment-kompgraf_autogen/mocs_compilation.cpp	3ce9b61119c42f8c
+712	2609	7809514173437422	CMakeFiles/assignment-kompgraf.dir/main.cpp.obj	e38f1c2da4267aef
+709	2676	7809514173407413	CMakeFiles/assignment-kompgraf.dir/assignment-kompgraf_autogen/mocs_compilation.cpp.obj	3d64aa082afe5c1d
+720	2858	7809514173511469	CMakeFiles/assignment-kompgraf.dir/drawingcanvas.cpp.obj	8a4f59883fa9a98c
+716	2655	7809514173468873	CMakeFiles/assignment-kompgraf.dir/drawingwindow.cpp.obj	47849d07a4b0a447
+2858	3171	7809514194897445	assignment-kompgraf.exe	a1cf1c37b2548ee4
+52	709	7809518934933369	assignment-kompgraf_autogen/timestamp	3ce9b61119c42f8c
+52	709	7809518934933369	assignment-kompgraf_autogen/mocs_compilation.cpp	3ce9b61119c42f8c
+52	709	7809518934933369	C:/Users/dafan/Documents/assignment-kompgraf/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/assignment-kompgraf_autogen/timestamp	3ce9b61119c42f8c
+52	709	7809518934933369	C:/Users/dafan/Documents/assignment-kompgraf/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/assignment-kompgraf_autogen/mocs_compilation.cpp	3ce9b61119c42f8c
+713	2516	7809518935710464	CMakeFiles/assignment-kompgraf.dir/main.cpp.obj	e38f1c2da4267aef
+710	2564	7809518935690612	CMakeFiles/assignment-kompgraf.dir/assignment-kompgraf_autogen/mocs_compilation.cpp.obj	3d64aa082afe5c1d
+716	2581	7809518935741705	CMakeFiles/assignment-kompgraf.dir/mainwindow.cpp.obj	9e004decb24fd59d
+718	2780	7809518935765006	CMakeFiles/assignment-kompgraf.dir/drawingcanvas.cpp.obj	8a4f59883fa9a98c
+2780	3045	7809518956386597	assignment-kompgraf.exe	b9c18b314a9406b2
